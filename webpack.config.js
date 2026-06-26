@@ -89,7 +89,8 @@ module.exports = (env, argv) => {
     plugins: [
       new HtmlWebpackPlugin({
         template: path.resolve(__dirname, 'public/index.html'),
-        filename: 'index.html'
+        filename: 'index.html',
+        favicon: path.resolve(__dirname, 'public/favicon.png')
       }),
       new webpack.IgnorePlugin({
         resourceRegExp: /@expo\/vector-icons|@react-native-vector-icons\/material-design-icons/
