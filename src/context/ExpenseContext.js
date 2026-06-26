@@ -9,7 +9,7 @@ const ExpenseContext = createContext();
 // Dynamic API URL for localhost/emulator resolution based on active platform
 const API_URL = Platform.select({
   android: 'http://10.0.2.2:3000', // standard emulator localhost route
-  default: 'http://localhost:3000'
+  default: 'https://expense-tracker-api-eb1a.onrender.com'
 });
 const AXIOS_TIMEOUT = 3000;
 
