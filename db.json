@@ -1,0 +1,262 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "amount": 25000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-06-26",
+      "description": "Monthly salary",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "2",
+      "amount": 250,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-06-26",
+      "description": "Lunch at cafe",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "3",
+      "amount": 500,
+      "type": "expense",
+      "category": "Transport",
+      "date": "2026-06-26",
+      "description": "Bus Pass",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "4",
+      "amount": 800,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-06-25",
+      "description": "Groceries",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "5",
+      "amount": 1200,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-06-25",
+      "description": "Electricity Bill",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "6",
+      "amount": 10000,
+      "type": "income",
+      "category": "Freelance",
+      "date": "2026-06-24",
+      "description": "Mobile app UI layout design",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "7",
+      "amount": 4000,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-06-24",
+      "description": "Weekly grocery list",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "8",
+      "amount": 2650,
+      "type": "expense",
+      "category": "Transport",
+      "date": "2026-06-23",
+      "description": "Car fuel refill",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "9",
+      "amount": 2000,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-06-22",
+      "description": "New shoes purchase",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "10",
+      "amount": 1100,
+      "type": "expense",
+      "category": "Bills",
+      "date": "2026-06-21",
+      "description": "Broadband internet bill",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "11",
+      "amount": 2050,
+      "type": "expense",
+      "category": "Others",
+      "date": "2026-06-20",
+      "description": "Gift for friend birthday",
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "nnfyRxXx7H4",
+      "amount": 25000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-06-26",
+      "description": "Monthly",
+      "userEmail": "vill@gmail.com"
+    },
+    {
+      "id": "SMMycRHq8Pc",
+      "amount": 245,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-06-26",
+      "description": "",
+      "userEmail": "vill@gmail.com"
+    },
+    {
+      "id": "Byzx0_4_0PU",
+      "amount": 20000,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-06-26",
+      "description": "Monthly",
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "sQ3PFsOyy78",
+      "amount": 6000,
+      "type": "expense",
+      "category": "Transport",
+      "date": "2026-06-26",
+      "description": "",
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "WWBFtNqmh2U",
+      "amount": 50000,
+      "type": "expense",
+      "category": "Shopping",
+      "date": "2026-06-26",
+      "description": "gygy",
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "YGxhnDKk94k",
+      "amount": 100000,
+      "type": "income",
+      "category": "salary",
+      "date": "2026-06-26",
+      "description": "vbbhbh",
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "XxYWtfg3f-E",
+      "amount": 20000,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-06-26",
+      "description": "",
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "58g_5WMOasA",
+      "amount": 77,
+      "type": "income",
+      "category": "vgv",
+      "date": "2026-06-26",
+      "description": "cgcg",
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "sXb6wKghatA",
+      "amount": 1,
+      "type": "income",
+      "category": "876",
+      "date": "2026-06-26",
+      "description": "87",
+      "userEmail": "am@gmail.com"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Dheeraj Prajapati",
+      "email": "dheeraj@example.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "currency": "INR",
+      "budget": 50000,
+      "geminiApiKey": ""
+    },
+    {
+      "id": "Di6aDdK5EyU",
+      "name": "Dheeraj Prajapati",
+      "email": "vill@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "currency": "INR",
+      "budget": 50000,
+      "geminiApiKey": ""
+    },
+    {
+      "id": "1ixvdedwJBM",
+      "name": "Amrit",
+      "email": "am@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "currency": "INR",
+      "budget": 50000,
+      "geminiApiKey": ""
+    }
+  ]
+,
+  "notifications": [
+    {
+      "id": "notif_1",
+      "title": "Welcome to Expense Tracker! 👋",
+      "message": "Start managing your personal finances by logging your incomes and expenses.",
+      "timestamp": "2026-06-26T12:00:00.000Z",
+      "type": "system",
+      "read": false,
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "notif_2",
+      "title": "Budget Alert",
+      "message": "You have spent 29.1% of your monthly budget.",
+      "timestamp": "2026-06-26T14:30:00.000Z",
+      "type": "budget_warning",
+      "read": true,
+      "userEmail": "dheeraj@example.com"
+    },
+    {
+      "id": "why8QubE5bI",
+      "title": "High Expense Alert 💸",
+      "message": "A large expense of ₹50,000 was recorded under Shopping.",
+      "timestamp": "2026-06-26T11:07:42.506Z",
+      "type": "high_expense",
+      "read": false,
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "XFdaL92IipU",
+      "title": "Monthly Budget Blown! 🚨",
+      "message": "Alert: You have spent 100% of your ₹50,000 budget limit for this month.",
+      "timestamp": "2026-06-26T11:07:42.705Z",
+      "type": "budget_critical",
+      "read": false,
+      "userEmail": "am@gmail.com"
+    },
+    {
+      "id": "OVc1daWa8dM",
+      "title": "High Expense Alert 💸",
+      "message": "A large expense of ₹20,000 was recorded under Food.",
+      "timestamp": "2026-06-26T11:10:29.660Z",
+      "type": "high_expense",
+      "read": false,
+      "userEmail": "am@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
